@@ -1,7 +1,7 @@
 # Zoomautochat-beta
 これはZoomオンライン授業で入室時に自動で出席チャットをやってくれるツールです。
 
-ツールを改善してくれる方いたらPullrequestかissuesになんか投げといてください。お願いします。
+ツールを改善してくれる方いたらPullrequestかDiscord Genchan_96#0025まで
 
 # 使用方法
 -Zipファイルを展開する
