@@ -4,6 +4,10 @@
 ツールを改善してくれる方いたらPullrequestかDiscord Genchan_96#0025まで
 
 # 使用方法
+-[releases](https://github.com/Genchan96/zoomautochat/releases/tag/beta)に移動
+
+-Source code(zip)をダウンロード
+
 -Zipファイルを展開する
 
 -name.txtに出席番号と自分の名前を入力
